@@ -13,6 +13,17 @@ nasa-project/
 
 ---
 
+## Fotos do sistema
+
+![image](https://github.com/user-attachments/assets/c1bd9f52-3068-4a9c-bf80-e2e88542c98c)
+
+![image](https://github.com/user-attachments/assets/5ab94325-1f2f-41a0-9907-2e52cc3b7e7c)
+
+![image](https://github.com/user-attachments/assets/25bc682e-fe41-48d6-8b81-0baf9f0686bc)
+
+
+---
+
 ## ✅ Funcionalidades
 
 - 📷 Exibição da imagem astronômica do dia (NASA APOD)
