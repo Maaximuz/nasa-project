@@ -55,7 +55,7 @@ nasa-project/
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/nasa-project.git
+git clone https://github.com/Maaximuz/nasa-project.git
 cd nasa-project
 ```
 
